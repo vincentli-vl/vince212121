@@ -22,6 +22,11 @@ Current 4th Semester Computer Programmer Analyst Student - Actively looking for 
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-040a61?style=for-the-badge&logo=mysql&logoColor=white)
 
+## OS
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 ### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vincent-li-vl/"><img src="https://img.shields.io/badge/-Vincent%20Li-0077b5?style=flat-square&logo=linkedin&logoColor=white"/></a>
