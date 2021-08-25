@@ -1,6 +1,7 @@
 ### Hi, I am Vincent Li 👋
 
 Current 4th Semester Computer Programmer Analyst Student <!-- - Actively looking for a co-op opportunity as a software developer.  -->
+
 :email: &nbsp; You can contact me by email at vincentli.dev@gmail.com. I'll try to respond as soon as I can.
 
 ## Languages
